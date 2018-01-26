@@ -52,7 +52,7 @@ font-size: 28px;
 font-size: 11px; font-weight: normal;
 }
 
-.app-hr-bottom {
+.app-hr-top {
 margin-bottom: 50px;
 }
 
@@ -4630,39 +4630,7 @@ body.sidebar-visible .bg-photo-container {
   </div>
 </b:includable>
         </b:widget>
-        <b:widget id='Label1' locked='false' title='Label' type='Label' visible='true'>
-          <b:widget-settings>
-            <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
-            <b:widget-setting name='display'>CLOUD</b:widget-setting>
-            <b:widget-setting name='selectedLabelsList'/>
-            <b:widget-setting name='showType'>ALL</b:widget-setting>
-            <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
-          </b:widget-settings>
-          <b:includable id='main' var='this'>
-          <details class='collapsible extendable'>
-            <b:attr cond='data:view.isLabelSearch' name='open' value='open'/>
-            <b:with value='true' var='renderAsDetails'>
-            <b:with value='data:messages.labels' var='defaultTitle'>
-              <b:include name='super.main'/>
-            </b:with>
-            </b:with>
-          </details>
-        </b:includable>
-          <b:includable id='cloud'>
-          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.cloud&quot;                             }' name='extendableItems'/>
-        </b:includable>
-          <b:includable id='content'>
-  <div class='widget-content'>
-    <b:class expr:name='data:this.display + &quot;-label-widget-content&quot;'/>
-    <b:include cond='data:this.display == &quot;list&quot;' name='list'/>
-    <b:include cond='data:this.display == &quot;cloud&quot;' name='cloud'/>
-  </div>
-</b:includable>
-          <b:includable id='list'>
-          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.list&quot;                             }' name='extendableItems'/>
-        </b:includable>
-        </b:widget>
-        <b:widget id='HTML4' locked='false' title='Topik' type='HTML' visible='true'>
+        <b:widget id='HTML4' locked='false' title='Halaman' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'/>
           </b:widget-settings>
@@ -4699,7 +4667,9 @@ body.sidebar-visible .bg-photo-container {
             <b:widget-setting name='text-1'>Memberikan bantuan</b:widget-setting>
             <b:widget-setting name='link-1'>http://quranitu.blogspot.com/p/membantu.html</b:widget-setting>
             <b:widget-setting name='text-0'>Penghargaan</b:widget-setting>
+            <b:widget-setting name='link-2'>https://quranitu.blogspot.my/p/peta-halaman.html</b:widget-setting>
             <b:widget-setting name='link-0'>http://quranitu.blogspot.com/p/penghargaan-dan-terima-kasih.html</b:widget-setting>
+            <b:widget-setting name='text-2'>Peta halaman</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -4714,6 +4684,38 @@ body.sidebar-visible .bg-photo-container {
    </ul>
  </div>
 </b:includable>
+        </b:widget>
+        <b:widget id='Label1' locked='false' title='Label' type='Label' visible='true'>
+          <b:widget-settings>
+            <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
+            <b:widget-setting name='display'>CLOUD</b:widget-setting>
+            <b:widget-setting name='selectedLabelsList'/>
+            <b:widget-setting name='showType'>ALL</b:widget-setting>
+            <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main' var='this'>
+          <details class='collapsible extendable'>
+            <b:attr cond='data:view.isLabelSearch' name='open' value='open'/>
+            <b:with value='true' var='renderAsDetails'>
+            <b:with value='data:messages.labels' var='defaultTitle'>
+              <b:include name='super.main'/>
+            </b:with>
+            </b:with>
+          </details>
+        </b:includable>
+          <b:includable id='cloud'>
+          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.cloud&quot;                             }' name='extendableItems'/>
+        </b:includable>
+          <b:includable id='content'>
+  <div class='widget-content'>
+    <b:class expr:name='data:this.display + &quot;-label-widget-content&quot;'/>
+    <b:include cond='data:this.display == &quot;list&quot;' name='list'/>
+    <b:include cond='data:this.display == &quot;cloud&quot;' name='cloud'/>
+  </div>
+</b:includable>
+          <b:includable id='list'>
+          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.list&quot;                             }' name='extendableItems'/>
+        </b:includable>
         </b:widget>
         <b:widget id='HTML1' locked='false' title='Pautan Luar' type='HTML' visible='true'>
           <b:widget-settings>
