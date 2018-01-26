@@ -11,10 +11,19 @@
     <link href='https://fonts.googleapis.com/css?family=Amiri' rel='stylesheet'/>
     <style type='text/css'>
 
+/* tweaks */
 #Header1 .header-widget h1,
-.app-hero,
 .post .post-title,
-.post .post-title a,
+.post .post-title a {
+font-family: Amiri, serif;
+}
+
+.post-body li {
+margin:16px 0;
+}
+
+/* customs */
+.app-hero,
 .app-arab-normal {
 font-family: Amiri, serif;
 }
@@ -121,7 +130,7 @@ text-align:justify;
 <Group description="Blog title" selector="div.widget.Header">
   <Variable name="blog.title.font" description="Font"
       type="font"
-      default="$(robotoBold45)"  value="normal bold 90px Roboto, sans-serif"/>
+      default="$(robotoBold45)"  value="bold 45px Roboto, sans-serif"/>
   <Variable name="blog.title.color" description="Color"
       type="color"
       default="#fff"  value="#ffffff"/>
@@ -4597,7 +4606,7 @@ body.sidebar-visible .bg-photo-container {
         </b:section>
       </div>
       <b:section class='sidebar_bottom' id='sidebar_bottom' name='Sidebar (Bottom)' preferred='yes'>
-        <b:widget id='HTML3' locked='false' title='Perihal' type='HTML' visible='true'>
+        <b:widget id='HTML3' locked='false' title='Pengenalan' type='HTML' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='content'/>
           </b:widget-settings>
@@ -4610,7 +4619,9 @@ body.sidebar-visible .bg-photo-container {
         </b:widget>
         <b:widget id='HTML2' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'><![CDATA[Laman ini menjelaskan perkataan-perkataan di dalam <span style="font-weight: bold;">Kitab Quran Itu</span> satu demi satu agar mudah difahami maknanya serta gaya bahasanya, sesuai dengan cara kita memahami <span style="font-weight: bold;">Bahasa Melayu</span>.]]></b:widget-setting>
+            <b:widget-setting name='content'>Laman ini menjelaskan perkataan-perkataan di dalam &lt;span style=&quot;font-weight:bold;&quot;&gt;Kitab Quran Itu&lt;/span&gt; satu persatu dalam &lt;span style=&quot;font-weight:bold;&quot;&gt;Bahasa Melayu&lt;/span&gt; agar mudah difahami maknanya serta gaya bahasanya.
+
+&lt;a href=&quot;http://quranitu.blogspot.com/p/pengenalan.html&quot;&gt;Baca lagi...&lt;/a&gt;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
