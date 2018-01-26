@@ -9,7 +9,7 @@ Matlamat kami membuat **Kaedah Belajar Quran Itu** adalah untuk menyampaikan kef
 ## Status projek
 Pada ketika ini, satu-satunya saluran bagi menyampaikan **Kaedah Belajar Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
 
-Ikuti perkembangan
+Ikuti perkembangan bahagian-bahagian berikut:
 
 - Bahagian [pembangunan laman web](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
 
