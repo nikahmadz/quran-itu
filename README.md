@@ -7,7 +7,7 @@ Ia disampaikan dengan kaedah yang mudah difahami dan tidak membebankan ingatan. 
 Matlamat utama projek **Quran Itu** adalah untuk memberikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab al-Quran** dan Hadith lalu memperolehi manafaat yang sangat banyak daripadanya.
 
 ## Keperluan asas sebelum memulakan pembacaan
-Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menggunakan menyampaian dengan gaya bahasa yang mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang agak rumit demi menyampaikan maksud yang tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari pembelajaran yang dipamerkan di dalam kandungan **Quran Itu**.
+Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menyampaikan dengan mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang agak rumit demi menyampaikan maksud yang tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari pembelajaran yang dipamerkan di dalam kandungan **Quran Itu**.
 
 ## Memulakan bacaan
 /*:
