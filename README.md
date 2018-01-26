@@ -22,7 +22,7 @@ Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebai
 -- untuk dikemaskini --
  */
  
-## Membantu dalam membangunkan projek Quran Itu
+## Membantu membangunkan projek Quran Itu
 Sumbangan idea serta penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
 
 - Sertai [*pasukan pembangun*](https://github.com/nikahmadz/Quran-Itu/graphs/contributors) dengan menghantar sumbangan anda ke dalam [**ruang kerja projek ini di Github**](https://github.com/nikahmadz/Quran-Itu). Anda boleh salin *(fork)* projek ini dan buat perubahan *(pull request)* terhadapnya.
