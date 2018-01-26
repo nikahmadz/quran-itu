@@ -13,19 +13,7 @@ Ikuti perkembangan
 
 - Bahagian [pembangunan laman web](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
 
-## Keperluan asas sebelum memulakan pembacaan
-Pembaca dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menyampaikan dengan gaya yang mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang lebih teliti demi menyampaikan maksud dengan tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari **Quran Itu**.
 
-## Memulakan bacaan
-/*:
--- untuk dikemaskini --
- */
- 
-## Cara menggunakan Quran Itu dengan betul
-/*:
--- untuk dikemaskini --
- */
- 
 ## Membantu membangunkan projek Quran Itu
 Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
 
