@@ -1,18 +1,20 @@
 # Quran Itu
-**Ini merupakan ruang kerja pembangunan Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). **Quran Itu** merupakan suatu kaedah pendidikan yang menjelaskan perkataan-perkataan di dalam **Kitab al-Quran** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya serta gaya bahasanya.
+**Ruang ini adalah ruang kerja bagi membangunkan Kaedah Belajar Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). **Quran Itu** adalah suatu kaedah untuk belajar **Bahasa Arab al-Quran**. Ia menjelaskan perkataan-perkataan di dalam **Kitab Quran Itu** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya dan susunan bahasanya.
 
-Ia disampaikan dengan kaedah yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca mempelajari **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab al-Quran**, **Hadith** serta mana-mana penulisan Bahasa Arab dengan mudah.
+Ia disampaikan dengan gaya yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca belajar **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab Quran Itu**, **Hadith** serta mana-mana penulisan Bahasa Arab dengan mudah.
 
 ## Objektif
-Matlamat utama projek **Quran Itu** adalah untuk memberikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab al-Quran**, **Hadith** dan kitab-kitab Bahsa Arab lalu memperolehi manafaat yang sangat banyak daripadanya.
+Matlamat kami membuat **Kaedah Belajar Quran Itu** adalah untuk menyampaikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab Quran Itu**, **Hadith** dan kitab-kitab Bahsa Arab lalu memperolehi manafaat yang sangat banyak daripadanya.
 
 ## Status projek
-Pada ketika ini, satu-satunya saluran pembelajaran **Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
+Pada ketika ini, satu-satunya saluran bagi menyampaikan **Kaedah Belajar Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
+
+Ikuti perkembangan
 
 - Bahagian [pembangunan laman web](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
 
 ## Keperluan asas sebelum memulakan pembacaan
-Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menyampaikan dengan mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang agak rumit demi menyampaikan maksud dengan tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari pembelajaran yang dipamerkan di dalam kandungan **Quran Itu**.
+Pembaca dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menyampaikan dengan gaya yang mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang lebih teliti demi menyampaikan maksud dengan tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari **Quran Itu**.
 
 ## Memulakan bacaan
 /*:
@@ -25,7 +27,7 @@ Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebai
  */
  
 ## Membantu membangunkan projek Quran Itu
-Sumbangan idea serta penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
+Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
 
 - Sertai [*pasukan pembangun*](https://github.com/nikahmadz/Quran-Itu/graphs/contributors) dengan menghantar sumbangan anda ke dalam [**ruang kerja projek ini di Github**](https://github.com/nikahmadz/Quran-Itu). Anda boleh salin *(fork)* projek ini dan buat perubahan *(pull request)* terhadapnya.
 - Berhubung dengan [*pasukan pembangun*](https://github.com/nikahmadz/Quran-Itu/graphs/contributors) dengan [membuat isu baharu](https://github.com/nikahmadz/Quran-Itu/issues). Hantar komen, cadangan atau laporkan apa-apa isu berkaitan projek ini kepada kami.
