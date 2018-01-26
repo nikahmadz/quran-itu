@@ -1,10 +1,10 @@
 # Quran Itu
 **Ini merupakan ruang kerja pembangunan Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). **Quran Itu** merupakan suatu kaedah pendidikan yang menjelaskan perkataan-perkataan di dalam **Kitab al-Quran** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya serta gaya bahasanya.
 
-Ia disampaikan dengan kaedah yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca mempelajari **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab al-Quran**, Hadith serta mana-mana penulisan Bahasa Arab dengan mudah.
+Ia disampaikan dengan kaedah yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca mempelajari **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab al-Quran**, **Hadith** serta mana-mana penulisan Bahasa Arab dengan mudah.
 
 ## Objektif
-Matlamat utama projek **Quran Itu** adalah untuk memberikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab al-Quran** dan Hadith lalu memperolehi manafaat yang sangat banyak daripadanya.
+Matlamat utama projek **Quran Itu** adalah untuk memberikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab al-Quran**, **Hadith** dan kitab-kitab Bahsa Arab lalu memperolehi manafaat yang sangat banyak daripadanya.
 
 ## Status projek
 Pada ketika ini, satu-satunya saluran pembelajaran **Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
