@@ -9,6 +9,8 @@ Matlamat utama projek **Quran Itu** adalah untuk memberikan kefahaman yang jelas
 ## Status projek
 Pada ketika ini, satu-satunya saluran pembelajaran **Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
 
+- Bahagian [pembangunan laman web](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
+
 ## Keperluan asas sebelum memulakan pembacaan
 Pembaca telah dianggap sudah menguasai **Bahasa Melayu** dengan baik. Kami sebaik mungkin cuba menyampaikan dengan mudah supaya senang difahami, namun dalam beberapa keadaan tertentu, kami perlu menggunakan kosa kata yang agak rumit demi menyampaikan maksud dengan tepat. Pembaca perlu mendapatkan bantuan dari guru atau juru bahasa yang baik sekiranya sukar memahami atau menguasai mana-mana bahagian dari pembelajaran yang dipamerkan di dalam kandungan **Quran Itu**.
 
