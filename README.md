@@ -4,7 +4,7 @@
 Ia disampaikan dengan gaya yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca belajar **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab Quran Itu**, **Hadith** serta mana-mana penulisan Bahasa Arab dengan mudah.
 
 ## Objektif
-Matlamat kami membuat **Kaedah Belajar Quran Itu** adalah untuk menyampaikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab Quran Itu**, **Hadith** dan kitab-kitab Bahsa Arab lalu memperolehi manafaat yang sangat banyak daripadanya.
+Matlamat kami membuat **Kaedah Belajar Quran Itu** adalah untuk menyampaikan kefahaman yang jelas dan jitu kepada pembaca dalam menguasai **Bahasa Arab al-Quran**. Semoga dengan itu, pembaca dapat memahami serta menghayati isi kandungan **Kitab Quran Itu**, **Hadith** dan kitab-kitab Bahasa Arab lalu memperolehi manafaat yang sangat banyak daripadanya.
 
 ## Status projek
 Pada ketika ini, satu-satunya saluran bagi menyampaikan **Kaedah Belajar Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
