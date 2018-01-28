@@ -13,7 +13,7 @@
 
 /* tweaks */
 .centered-top-container .search {
-	top:8px;
+top:8px;
 }
 .centered-top-container #search_top {
 margin-top: -4px;
@@ -29,6 +29,63 @@ font-family: Amiri, serif;
 margin:16px 0;
 }
 
+.blog-pager {
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 2em;
+    margin-bottom: 0;
+    }
+
+.main.section .widget.Label,
+.post-outer-container {
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.main.section .widget.Label {
+background: #ffffff;
+min-height: 40px;
+padding: 30px 40px;
+width: auto;
+}
+
+.PopularPosts {
+border: 1px dashed #ccc;
+border-radius: 20px;
+}
+
+.PopularPosts h3.title {
+margin: 20px 0;
+text-decoration: underline;
+}
+
+.post-body .byline.post-labels a,
+.widget.Label .label-size {
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* behavior */
+.sidebar-container .widget a:hover,
+.post-title a:hover,
+.post-snippet a:hover,
+.post-body a:hover,
+a.comment-link:hover .num_comments {
+text-decoration: underline;
+}
+
+.flat-icon-button:hover {
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.blog-posts .flat-button:hover {
+margin-top:-1px;
+margin-bottom:1px;
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.PopularPosts .flat-button:hover {
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+
 /* customs */
 .app-hero,
 .app-arab-normal {
@@ -36,7 +93,7 @@ font-family: Amiri, serif;
 }
 
 .app-arab-normal {
-font-size: 24px; font-weight: bold;
+font-size: 24px;
 }
 
 .app-hero {
@@ -102,7 +159,10 @@ margin:26px 0;
       type="color"
       default="#757575"  value="#757575"/>
 </Group>
-
+<!--
+https://source.unsplash.com/collection/1658971/1200x900/daily
+value="$(color) url(https://themes.googleusercontent.com/image?id=L1lcAxxz0CLgsDzixEprHJ2F38TyEjCyE3RSAjynQDks0lT1BDc1OxXKaTEdLc89HPvdB11X9FDw) no-repeat scroll top center /* Credit: Michael Elkan (http://www.offset.com/photos/394244) */;"
+-->
 <Group description="Backgrounds">
   <Variable name="body.background.height" description="Background height"
       type="length"
@@ -112,7 +172,7 @@ margin:26px 0;
   <Variable name="body.background" description="Background"
       color="$(body.background.color)"
       type="background"
-      default="$(color) none repeat scroll top left"  value="$(color) url(https://themes.googleusercontent.com/image?id=L1lcAxxz0CLgsDzixEprHJ2F38TyEjCyE3RSAjynQDks0lT1BDc1OxXKaTEdLc89HPvdB11X9FDw) no-repeat scroll top center /* Credit: Michael Elkan (http://www.offset.com/photos/394244) */;"/>
+      default="$(color) none repeat scroll top left"  value="$(color) url(https://source.unsplash.com/collection/1658971/1600x640/daily) no-repeat scroll top center /* Credit: Unsplash (https://unsplash.com/collections/1658971/dark-website-background) */;"/>
   <Variable name="body.background.color" description="Body background color"
       type="color"
       default="#eee"  value="#eeeeee"/>
@@ -3839,7 +3899,7 @@ body.sidebar-visible .bg-photo-container {
                   </div>
                 </b:if>
                 <b:section class='main' id='page_body' name='Page Body' showaddelement='false'>
-                  <b:widget cond='data:view.isHomepage' id='FeaturedPost1' locked='true' title='' type='FeaturedPost' visible='true'>
+                  <b:widget cond='data:view.isHomepage' id='FeaturedPost1' locked='true' title='' type='FeaturedPost' visible='false'>
                     <b:widget-settings>
                       <b:widget-setting name='showSnippet'>true</b:widget-setting>
                       <b:widget-setting name='showPostTitle'>true</b:widget-setting>
@@ -4374,6 +4434,38 @@ body.sidebar-visible .bg-photo-container {
   </section>
 </b:includable>
                   </b:widget>
+                  <b:widget id='Label1' locked='false' title='Label' type='Label' visible='true'>
+                    <b:widget-settings>
+                      <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
+                      <b:widget-setting name='display'>CLOUD</b:widget-setting>
+                      <b:widget-setting name='selectedLabelsList'/>
+                      <b:widget-setting name='showType'>ALL</b:widget-setting>
+                      <b:widget-setting name='showFreqNumbers'>true</b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main' var='this'>
+          <details class='collapsible extendable'>
+            <b:attr cond='data:view.isLabelSearch' name='open' value='open'/>
+            <b:with value='true' var='renderAsDetails'>
+            <b:with value='data:messages.labels' var='defaultTitle'>
+              <b:include name='super.main'/>
+            </b:with>
+            </b:with>
+          </details>
+        </b:includable>
+                    <b:includable id='cloud'>
+          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.cloud&quot;                             }' name='extendableItems'/>
+        </b:includable>
+                    <b:includable id='content'>
+  <div class='widget-content'>
+    <b:class expr:name='data:this.display + &quot;-label-widget-content&quot;'/>
+    <b:include cond='data:this.display == &quot;list&quot;' name='list'/>
+    <b:include cond='data:this.display == &quot;cloud&quot;' name='cloud'/>
+  </div>
+</b:includable>
+                    <b:includable id='list'>
+          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.list&quot;                             }' name='extendableItems'/>
+        </b:includable>
+                  </b:widget>
                   <b:widget cond='data:view.isSingleItem and data:posts any (p =&gt; p.id != data:view.postId)' id='PopularPosts1' locked='true' title='' type='PopularPosts' visible='true'>
                     <b:widget-settings>
                       <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
@@ -4630,9 +4722,7 @@ body.sidebar-visible .bg-photo-container {
         </b:widget>
         <b:widget id='HTML2' locked='false' title='' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>Laman ini menjelaskan perkataan-perkataan di dalam &lt;span style=&quot;font-weight:bold;&quot;&gt;Kitab Quran Itu&lt;/span&gt; satu persatu dalam &lt;span style=&quot;font-weight:bold;&quot;&gt;Bahasa Melayu&lt;/span&gt; agar mudah difahami maknanya serta gaya bahasanya.
-
-&lt;a href=&quot;http://quranitu.blogspot.com/p/pengenalan.html&quot;&gt;Baca lagi...&lt;/a&gt;</b:widget-setting>
+            <b:widget-setting name='content'><![CDATA[Laman ini menjelaskan perkataan-perkataan di dalam <span style="font-weight: bold;">Kitab al-Quran</span> satu persatu dalam <span style="font-weight: bold;">Bahasa Melayu</span> agar mudah difahami maknanya dan susunan bahasanya. <a href="http://quranitu.blogspot.com/p/pengenalan.html"><br />Teruskan membaca...</a>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -4655,12 +4745,10 @@ body.sidebar-visible .bg-photo-container {
         <b:widget id='LinkList2' locked='false' title='' type='LinkList' visible='true'>
           <b:widget-settings>
             <b:widget-setting name='sorting'>NONE</b:widget-setting>
-            <b:widget-setting name='text-1'>Kata nama - إ&#1616;س&#1618;م&#1612;</b:widget-setting>
-            <b:widget-setting name='link-1'>https://quranitu.blogspot.my/2018/01/maksud-perkataan-kata-nama.html</b:widget-setting>
+            <b:widget-setting name='text-1'>Ganti nama - ض&#1614;م&#1616;ي&#1618;ر&#1615;</b:widget-setting>
+            <b:widget-setting name='link-1'>https://quranitu.blogspot.my/2018/01/13-ganti-nama-dalam-bahasa-arab-al-quran.html</b:widget-setting>
             <b:widget-setting name='text-0'>Memulakan bacaan</b:widget-setting>
-            <b:widget-setting name='link-2'>https://quranitu.blogspot.my/2018/01/maksud-perkataan-ganti-nama.html</b:widget-setting>
             <b:widget-setting name='link-0'>http://quranitu.blogspot.com/p/memulakan-bacaan.html</b:widget-setting>
-            <b:widget-setting name='text-2'>Ganti nama - ض&#1614;م&#1616;ي&#1618;ر&#1615;</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
   <b:include name='widget-title'/>
@@ -4699,38 +4787,6 @@ body.sidebar-visible .bg-photo-container {
    </ul>
  </div>
 </b:includable>
-        </b:widget>
-        <b:widget id='Label1' locked='false' title='Label' type='Label' visible='true'>
-          <b:widget-settings>
-            <b:widget-setting name='sorting'>FREQUENCY</b:widget-setting>
-            <b:widget-setting name='display'>CLOUD</b:widget-setting>
-            <b:widget-setting name='selectedLabelsList'/>
-            <b:widget-setting name='showType'>ALL</b:widget-setting>
-            <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
-          </b:widget-settings>
-          <b:includable id='main' var='this'>
-          <details class='collapsible extendable'>
-            <b:attr cond='data:view.isLabelSearch' name='open' value='open'/>
-            <b:with value='true' var='renderAsDetails'>
-            <b:with value='data:messages.labels' var='defaultTitle'>
-              <b:include name='super.main'/>
-            </b:with>
-            </b:with>
-          </details>
-        </b:includable>
-          <b:includable id='cloud'>
-          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.cloud&quot;                             }' name='extendableItems'/>
-        </b:includable>
-          <b:includable id='content'>
-  <div class='widget-content'>
-    <b:class expr:name='data:this.display + &quot;-label-widget-content&quot;'/>
-    <b:include cond='data:this.display == &quot;list&quot;' name='list'/>
-    <b:include cond='data:this.display == &quot;cloud&quot;' name='cloud'/>
-  </div>
-</b:includable>
-          <b:includable id='list'>
-          <b:include data='{                               buttonClass: &quot;pill-button&quot;,                               items: data:this.labels,                               itemSet: &quot;labels&quot;,                               itemsMarkup: &quot;super.list&quot;                             }' name='extendableItems'/>
-        </b:includable>
         </b:widget>
         <b:widget id='HTML1' locked='false' title='Pautan Luar' type='HTML' visible='true'>
           <b:widget-settings>
