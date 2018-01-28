@@ -1,5 +1,7 @@
 # Quran Itu
-**Ruang ini adalah ruang kerja bagi membangunkan Kaedah Belajar Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). **Quran Itu** adalah suatu kaedah untuk belajar **Bahasa Arab al-Quran**. Ia menjelaskan perkataan-perkataan di dalam **Kitab Quran Itu** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya dan susunan bahasanya.
+**Ruang ini adalah ruang kerja bagi membangunkan Kaedah Belajar Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). 
+
+**Quran Itu** adalah suatu kaedah untuk belajar **Bahasa Arab al-Quran**. Ia menjelaskan perkataan-perkataan di dalam **Kitab Quran Itu** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya dan susunan bahasanya.
 
 Ia disampaikan dengan gaya yang mudah difahami dan tidak membebankan ingatan. **Quran Itu** dapat membantu pembaca belajar **Bahasa Arab al-Quran** dengan mudah. Kemahiran yang dipelajari dapat digunakan untuk memahami **Kitab Quran Itu**, **Hadith** serta mana-mana penulisan Bahasa Arab dengan mudah.
 
