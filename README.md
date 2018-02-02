@@ -8,7 +8,7 @@ Pada ketika ini, satu-satunya saluran bagi menyampaikan **Terjemahan Quran Itu**
 
 Ikuti perkembangan bahagian-bahagian berikut:
 
-- Bahagian [pembangunan laman web](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
+- Bahagian [pembangunan laman web - quranitu.blogspot.my](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
 
 
 ## Membantu membangunkan projek Quran Itu
