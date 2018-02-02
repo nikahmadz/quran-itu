@@ -19,3 +19,8 @@ Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh m
 - **Tambah daftar kata, tafsiran, terjemahan kandungan ke dalam bahasa lain** atau sumbangkan idea dan penulisan anda ke dalam [*wiki* projek **Quran Itu** di sini](https://github.com/nikahmadz/Quran-Itu/wiki).
 
 Sumbangan anda akan dimuatkan ke dalam projek **Quran Itu** setelah dikemaskini dan diluluskan oleh penerbit. Terima kasih atas perhatian dan sumbangan anda kepada projek ini. Semoga Allah memberkati usaha dan amalan kita semua. Ameen.
+
+---
+
+[github](https://nikahmadz.github.io/Quran-Itu/)
+| [quranitu.blogspot.my](https://quranitu.blogspot.my)
