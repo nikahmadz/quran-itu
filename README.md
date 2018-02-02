@@ -1,4 +1,4 @@
-# Quran Itu
+# [Quran Itu](https://nikahmadz.github.io/Quran-Itu/)
 **Ruang ini adalah ruang kerja bagi membangunkan Terjemahan Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). 
 
 **Quran Itu** adalah sebuah projek terjemahan **Kitab Suci al-Quran**. Ia menjelaskan perkataan-perkataan di dalam **Kitab Suci al-Quran** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya dan susunan bahasanya.
