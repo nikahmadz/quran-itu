@@ -1,9 +1,8 @@
 # Projek Terjemahan Quran Itu
-**Ini adalah ruang kerja bagi membangunkan Terjemahan Quran Itu**
 
----
+**Quran Itu** adalah sebuah projek terjemahan **Kitab Suci al-Quran** perkataan demi perkataan ke dalam **Bahasa Melayu**.  
 
-**Quran Itu** adalah sebuah projek terjemahan **Kitab Suci al-Quran** perkataan demi perkataan ke dalam **Bahasa Melayu**. Baca lebih lanjut mengenainya dalam [artikel pengenalan ini][pengenalan].
+Baca lebih lanjut mengenainya dalam [artikel pengenalan ini][pengenalan].
 
 ---
 
