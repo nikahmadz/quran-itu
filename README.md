@@ -10,11 +10,7 @@
 ## Status projek
 Pada ketika ini, **Terjemahan Quran Itu** boleh diakses melalui [**laman web ini**][pengenalan] dan **blog** [**quranitu.blogspot.my**][blog]. Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya dalam masa terdekat. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai hendaknya. Ameen.
 
-Ikuti perkembangan bahagian-bahagian berikut:
-
-- Bahagian [pembangunan laman web](https://nikahmadz.github.io/Quran-Itu/wiki/Pembangunan-Laman-Web)
-- Bahagian [pembangunan blog](https://nikahmadz.github.io/Quran-Itu/wiki/Pembangunan-Blog)
-
+Ikuti perkembangan projek di sini: [Wiki][wiki]
 
 ## Membantu membangunkan projek Quran Itu
 Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
