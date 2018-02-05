@@ -1,26 +1,40 @@
-# [Quran Itu](https://nikahmadz.github.io/Quran-Itu/)
-**Ruang Github ini adalah ruang kerja bagi membangunkan Terjemahan Quran Itu** - [quranitu.blogspot.my](https://quranitu.blogspot.my). 
+# Projek Terjemahan Quran Itu
+**Ini adalah ruang kerja bagi membangunkan Terjemahan Quran Itu**
 
-**Quran Itu** adalah sebuah projek terjemahan **Kitab Suci al-Quran**. Ia menjelaskan perkataan-perkataan di dalam **Kitab Suci al-Quran** satu persatu dalam **Bahasa Melayu** agar mudah difahami maknanya dan susunan bahasanya.
+---
+
+**Quran Itu** adalah sebuah projek terjemahan **Kitab Suci al-Quran** perkataan demi perkataan ke dalam **Bahasa Melayu**. Baca lebih lanjut mengenainya dalam [artikel pengenalan ini][pengenalan].
+
+---
 
 ## Status projek
-Pada ketika ini, satu-satunya saluran bagi menyampaikan **Terjemahan Quran Itu** adalah melalui laman web ini - [quranitu.blogspot.my](https://quranitu.blogspot.my). Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai suatu hari nanti. Ameen.
+Pada ketika ini, **Terjemahan Quran Itu** boleh diakses melalui [**laman web ini**][pengenalan] dan **blog** [**quranitu.blogspot.my**][blog]. Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya dalam masa terdekat. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai hendaknya. Ameen.
 
 Ikuti perkembangan bahagian-bahagian berikut:
 
-- Bahagian [pembangunan laman web - quranitu.blogspot.my](https://github.com/nikahmadz/Quran-Itu/tree/master/blogspot)
+- Bahagian [pembangunan laman web](https://nikahmadz.github.io/Quran-Itu/wiki/Pembangunan-Laman-Web)
+- Bahagian [pembangunan blog](https://nikahmadz.github.io/Quran-Itu/wiki/Pembangunan-Blog)
 
 
 ## Membantu membangunkan projek Quran Itu
 Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh menyumbang kepada pembangunan projek ini melalui kaedah-kaedah berikut:
 
-- Sertai [*pasukan pembangun*](https://github.com/nikahmadz/Quran-Itu/graphs/contributors) dengan menghantar sumbangan anda ke dalam [**ruang kerja projek ini di Github**](https://github.com/nikahmadz/Quran-Itu). Anda boleh salin *(fork)* projek ini dan buat perubahan *(pull request)* terhadapnya.
-- Berhubung dengan [*pasukan pembangun*](https://github.com/nikahmadz/Quran-Itu/graphs/contributors) dengan [membangkitkan isu baharu](https://github.com/nikahmadz/Quran-Itu/issues). Hantar komen, cadangan atau laporkan apa-apa isu berkaitan projek ini kepada kami.
-- **Tambah daftar kata, tafsiran, terjemahan kandungan ke dalam bahasa lain** atau sumbangkan idea dan penulisan anda ke dalam [*wiki* projek **Quran Itu** di sini](https://github.com/nikahmadz/Quran-Itu/wiki).
+- Sertai [*pasukan pembangun*][contributors] dengan menghantar sumbangan anda ke dalam [**ruang kerja projek ini di Github**][github]. Anda boleh salin *(fork)* projek ini dan buat perubahan *(pull request)* terhadapnya.
+
+- Berhubung dengan [*pasukan pembangun*][contributors] dengan [membangkitkan isu baharu][issues]. Hantar komen, cadangan atau laporkan apa-apa isu berkaitan projek ini kepada kami.
+
+- **Tambah daftar kata, tafsiran, dan terjemahan kandungan ke dalam bahasa lain** atau sumbangkan idea dan penulisan anda ke dalam [*wiki* kami di sini][wiki].
 
 Sumbangan anda akan dimuatkan ke dalam projek **Quran Itu** setelah dikemaskini dan diluluskan oleh penerbit. Terima kasih atas perhatian dan sumbangan anda kepada projek ini. Semoga Allah memberkati usaha dan amalan kita semua. Ameen.
 
+[contributors]: https://github.com/nikahmadz/Quran-Itu/graphs/contributors
+[issues]: https://github.com/nikahmadz/Quran-Itu/issues
+
 ---
 
-[github](https://nikahmadz.github.io/Quran-Itu/)
-| [quranitu.blogspot.my](https://quranitu.blogspot.my)
+[Pengenalan][pengenalan] | **Github** | [Wiki][wiki] | [quranitu.blogspot.my][blog]
+
+[pengenalan]: https://nikahmadz.github.io/Quran-Itu/
+[github]: https://nikahmadz.github.io/Quran-Itu/
+[wiki]: https://nikahmadz.github.io/Quran-Itu/wiki/
+[blog]: https://quranitu.blogspot.my
