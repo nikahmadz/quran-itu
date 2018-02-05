@@ -7,7 +7,7 @@ Baca lebih lanjut mengenainya dalam artikel pengenalan ini.
 ---
 
 ## Perkembangan projek
-Pada ketika ini, **Terjemahan Quran Itu** boleh diakses melalui [**laman web ini**][pengenalan] dan **blog** [**quranitu.blogspot.my**][blog]. Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya dalam masa terdekat. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai hendaknya. Ameen.
+Pada ketika ini, **Terjemahan Quran Itu** boleh dicapai melalui [**laman web ini**][pengenalan] dan **blog** [**quranitu.blogspot.my**][blog]. Kami telah bercadang untuk memperluaskan lagi medium penyampaian melalui saluran-saluran yang lain termasuk buku, perisian dan sebagainya dalam masa terdekat. Adalah diharapkan, impian tersebut dikurniakan Allah dan tercapai hendaknya. Ameen.
 
 Ikuti perkembangan projek di halaman [Wiki][wiki].
 
