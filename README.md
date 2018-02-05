@@ -32,5 +32,5 @@ Sumbangan anda akan dimuatkan ke dalam projek **Quran Itu** setelah dikemaskini 
 
 [pengenalan]: https://nikahmadz.github.io/Quran-Itu/
 [github]: https://nikahmadz.github.io/Quran-Itu/
-[wiki]: https://nikahmadz.github.io/Quran-Itu/wiki/
+[wiki]: https://github.com/nikahmadz/Quran-Itu/wiki
 [blog]: https://quranitu.blogspot.my
