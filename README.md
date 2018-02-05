@@ -19,7 +19,7 @@ Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh m
 
 - Berhubung dengan [*pasukan pembangun*][contributors] dengan [membangkitkan isu baharu][issues]. Hantar komen, cadangan atau laporkan apa-apa isu berkaitan projek ini kepada kami.
 
-- **Tambah daftar kata, tafsiran, dan terjemahan kandungan ke dalam bahasa lain** atau sumbangkan idea dan penulisan anda ke dalam [*wiki* kami di sini][wiki].
+- Anda boleh menambah **daftar kata, tafsiran, terjemahan kandungan ke dalam bahasa lain** atau apa jua bentuk penulisan yang berguna ke dalam projek ini. Hantarkan sumbangan anda ke dalam [Wiki kami di sini][wiki].
 
 Sumbangan anda akan dimuatkan ke dalam projek **Quran Itu** setelah dikemaskini dan diluluskan oleh penerbit. Terima kasih atas perhatian dan sumbangan anda kepada projek ini. Semoga Allah memberkati usaha dan amalan kita semua. Ameen.
 
