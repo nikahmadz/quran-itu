@@ -23,14 +23,14 @@ Sumbangan idea dan penulisan untuk projek ini amatlah dialu-alukan. Anda boleh m
 
 Sumbangan anda akan dimuatkan ke dalam projek **Quran Itu** setelah dikemaskini dan diluluskan oleh penerbit. Terima kasih atas perhatian dan sumbangan anda kepada projek ini. Semoga Allah memberkati usaha dan amalan kita semua. Ameen.
 
-[contributors]: https://github.com/nikahmadz/Quran-Itu/graphs/contributors
-[issues]: https://github.com/nikahmadz/Quran-Itu/issues
+[contributors]: https://github.com/nikahmadz/quran-itu/graphs/contributors
+[issues]: https://github.com/nikahmadz/quran-itu/issues
 
 ---
 
 [Pengenalan][pengenalan] | **Github** | [Wiki][wiki] | [quranitu.blogspot.my][blog]
 
-[pengenalan]: https://nikahmadz.github.io/Quran-Itu/
-[github]: https://nikahmadz.github.io/Quran-Itu/
-[wiki]: https://github.com/nikahmadz/Quran-Itu/wiki
+[pengenalan]: https://nikahmadz.github.io/quran-itu/
+[github]: https://nikahmadz.github.io/quran-itu/
+[wiki]: https://github.com/nikahmadz/quran-itu/wiki
 [blog]: https://quranitu.blogspot.my
